@@ -1,5 +1,5 @@
 ---
-title: Long Haul
+title: Fuzzy Code
 timezone: UTC
 collections:
   posts:
@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
-url: http://brianmaierjr.github.com/long-haul
+url: https://github.com/fuzzy-code
 baseurl: ''
 paginate_path: blog/page:num/
 permalink: blog/:title/
