@@ -1,7 +1,7 @@
 ---
+title: Featured Image
+date: 2014-12-14 00:00:00 Z
 layout: post
-title:  "Featured Image"
-date:   2014-12-14
 image: touring.jpg
 ---
 

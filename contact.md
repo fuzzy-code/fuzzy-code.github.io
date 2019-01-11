@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Contact Long Haul
+layout: default
 ---
 
 <div id="contact">

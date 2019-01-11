@@ -1,6 +1,6 @@
 ---
-layout: default
 title: About Long Haul
+layout: default
 ---
 
 <div class="post">
